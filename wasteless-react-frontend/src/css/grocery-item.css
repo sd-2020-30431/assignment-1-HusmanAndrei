@@ -1,0 +1,18 @@
+
+
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: lightgrey;
+    align-items: center;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 5px;
+    box-shadow: 1px 1px 2px;
+
+}
+
+.card:hover {
+    opacity: 0.8;
+}
