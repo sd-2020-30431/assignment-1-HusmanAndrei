@@ -1,0 +1,16 @@
+
+
+.grocery-list {
+    display: flex;
+    font-size: 20px;
+    background-color: antiquewhite;
+    flex-direction: column;
+    padding-bottom: 50px;
+    box-shadow: 1px  1px 3px #61dafb;
+    border-radius: 25px;
+
+
+}
+.grocery-list:nth-child{
+    background-color: cornsilk;
+}
